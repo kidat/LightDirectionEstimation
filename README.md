@@ -33,4 +33,5 @@ python main.py --input ./samples
 
 This project receives a folder of images and generates depth maps, object-shadow associations, light direction estimations in 2D, and 3D environment mappings in .ply format for each image.
 
-### The result of 5 sample examples are provided in the Result folder
+#### The result of 5 sample examples are provided in the Result folder
+#### All the codes in a single file is also provided in the onefile folder, and it can be run from the SSIS/demo directory.
