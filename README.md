@@ -33,3 +33,5 @@ python main.py --input ./samples
 
 
 This project receives a folder of images and generates depth maps, object-shadow associations, light direction estimations in 2D, and 3D environment mappings in .ply format for each image.
+
+                                      ### The result of 5 sample examples are provided under the "result" folder
