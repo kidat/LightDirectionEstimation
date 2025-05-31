@@ -18,7 +18,7 @@ LightDir: git clone https://github.com/kidat/LightDirectionEstimation.git
             ├──main.py
             
       
-Demo
+### Demo
 
 To evaluate the results, try the command example:
 
