@@ -11,18 +11,23 @@ LightDir: git clone https://github.com/kidat/LightDirectionEstimation.git
       ### Project structure
       ├──MoGe: 
       ├──SSIS: 
+            ├──demo
       ├──LightDirectionEstimation
             ├──config
             ├──models
             .....
             ├──main.py
             
-      
+### Before running this project, make sure both MoGe and SSIS are correctly installed, and all data and dependencies are setup according to the instructions provided on their official websites.
+
+   
 ### Demo
 
 To evaluate the results, try the command example:
 
 cd LightDirectionEstimation
+
+pip install -r requirements.txt
 
 python main.py --input ./samples
 
