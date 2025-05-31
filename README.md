@@ -18,8 +18,7 @@ LightDir: git clone https://github.com/kidat/LightDirectionEstimation.git
             .....
             ├──main.py
             
-### Before running this project, make sure both MoGe and SSIS are correctly installed, and all data and dependencies are setup according to the instructions provided on their official websites.
-
+#### Before running this project, make sure MoGe and SSIS are correctly installed, and all data and dependencies are setup according to the instructions provided on their official websites. Test them separately.
    
 ### Demo
 
