@@ -35,3 +35,7 @@ This project receives a folder of images and generates depth maps, object-shadow
 
 #### The result of 5 sample examples are provided in the Result folder
 #### All the codes in a single file is also provided in the onefile folder, and it can be run from the SSIS/demo directory.
+
+### Note I test code on CUDA 12.1 (V12.1.66) with Python 3.8.20 environment.
+
+
