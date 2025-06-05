@@ -26,7 +26,7 @@ To evaluate the results, try the command example:
 
 cd LightDirectionEstimation
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 python main.py --input ./samples
 
