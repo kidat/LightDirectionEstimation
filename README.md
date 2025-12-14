@@ -38,4 +38,10 @@ This project receives a folder of images and generates depth maps, object-shadow
 
 ### Note I test code on CUDA 12.1 (V12.1.66) with Python 3.8.20 environment.
 
+## License
 
+MIT License - See LICENSE file for details
+
+
+**Last Updated**: June 10, 2025  
+**Version**: 1.0.0
